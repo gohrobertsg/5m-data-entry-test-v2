@@ -18,11 +18,11 @@ Snippet 1
 
 (a) What does this print? Write the exact value.
 
-    Answer:
+    Answer: 17
 
 (b) In one sentence, describe in plain English what this loop computes.
 
-    Answer:
+    Answer:It adds up all the numbers that is greater than 4 and prints that sum
 
 ------------------------------------------------------------------
 Snippet 2
@@ -37,6 +37,6 @@ Snippet 2
 (c) Write the two lines this program prints, in order.
 
     Answer:
-    Line 1:
-    Line 2:
+    Line 1: Hello, World!
+    Line 2: Hello, Ada!
 """
